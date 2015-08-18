@@ -225,7 +225,7 @@ select {
   font-size: map-get($type, 100);
   color: lighten(red, 35%);
   position: absolute;
-  @include mq(mobile, tablet){
+  @include mq(mobile, desktop){
       right: 0;
   }
 
@@ -235,6 +235,7 @@ select {
   margin-bottom: 1rem;
   color: lighten(red, 35%);
   font-size: map-get($type, 200);
+  @include transition(all .25s ease-in-out);
 }
 .js-message-success {
   @extend .js-message-validationError;
