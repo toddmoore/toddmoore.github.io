@@ -1,0 +1,12 @@
+CACHE MANIFEST
+NETWORK:
+*
+
+CACHE:
+http://toddmoore.github.io/build.js
+http://toddmoore.github.io/public/images/browser-chrome.svg
+http://toddmoore.github.io/public/images/build-it-icon.svg
+http://toddmoore.github.io/public/images/karem_suer.jpg
+http://toddmoore.github.io/public/images/learn-from-it.svg
+http://toddmoore.github.io/public/images/measure-it.svg
+http://toddmoore.github.io/public/images/pipeline-logo.svg 
