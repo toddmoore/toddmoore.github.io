@@ -15,3 +15,5 @@ Check it [here](https://developers.google.com/speed/pagespeed/insights/?url=http
 - Fonts loaded async
 - Styles inlined and under 14kb (one packet size)
 - Scripts are defered
+
+[W3C Validator](https://validator.w3.org/nu/?doc=http%3A%2F%2Ftoddmoore.github.io%2F)
